@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors Web Game
 
-![Game Screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.frontendmentor.io%2Fchallenges%2Frock-paper-scissors-game-pTgwgvgH&psig=AOvVaw0wfR6TDX0sA87WuRARrVgS&ust=1698759538779000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC48MjynYIDFQAAAAAdAAAAABAE)
+![Game Screenshot](https://res.cloudinary.com/dz209s6jk/image/upload/v1573656786/Challenges/t0xxfl1n3bjrlnfhasds.jpg)
 
 ## Table of Contents
 
@@ -9,10 +9,8 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Credits](#credits)
 - [Contact](#contact)
-- [Additional Information](#additional-information)
 
 ## Description
 
