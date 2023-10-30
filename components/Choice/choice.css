@@ -1,0 +1,21 @@
+.circular-1{
+    --scale: 1.2
+}
+.circular-2{
+    --scale: 1.5
+}
+.circular-3{
+    --scale: 1.8
+}
+
+@media screen and (min-width:1024px) {
+    .circular-1{
+        --scale: 1.6
+    }
+    .circular-2{
+        --scale: 2.2
+    }
+    .circular-3{
+        --scale: 2.8
+    }
+}
